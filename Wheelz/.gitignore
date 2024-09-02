@@ -1,0 +1,7 @@
+wp-config-sample.php
+wp-admin/
+wp-includes/
+wp-content/uploads/
+*.log
+*.tmp
+*.bak
